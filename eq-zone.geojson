@@ -6,7 +6,7 @@
       "properties": {
         "name": "Aceh Utara",
         "name:en": "Nanggroe Aceh Darussalam",
-        "population": 1,
+        "population": 10,
         "sq-km": 9458
       },
       "geometry": {
@@ -574,7 +574,7 @@
       "properties": {
         "name": "Aceh Tamiang",
         "name:en": "Nanggroe Aceh Darussalam",
-        "population": 2,
+        "population": 20,
         "sq-km": 5963
       },
       "geometry": {
@@ -1001,7 +1001,7 @@
       "properties": {
         "name": "Lhokseumawe",
         "name:en": "Nanggroe Aceh Darussalam",
-        "population": 1,
+        "population": 10,
         "sq-km": 5883
       },
       "geometry": {
@@ -1360,7 +1360,7 @@
       "properties": {
         "name": "Umujyi wa Kigali",
         "name:en": "Kigali City",
-        "population":2,
+        "population":20,
         "sq-km": 730
       },
       "geometry": {
@@ -1379,7 +1379,7 @@
       "properties": {
         "name": "Umujyi wa Kigali",
         "name:en": "Kigali City",
-        "population": 1,
+        "population": 10,
         "sq-km": 730
       },
       "geometry": {
@@ -1398,7 +1398,7 @@
       "properties": {
         "name": "Umujyi wa Kigali",
         "name:en": "Kigali City",
-        "population": 2,
+        "population": 20,
         "sq-km": 730
       },
       "geometry": {
@@ -1417,7 +1417,7 @@
       "properties": {
         "name": "Umujyi wa Kigali",
         "name:en": "Kigali City",
-        "population": 1,
+        "population": 10,
         "sq-km": 730
       },
       "geometry": {
@@ -1436,7 +1436,7 @@
       "properties": {
         "name": "Umujyi wa Kigali",
         "name:en": "Kigali City",
-        "population":2,
+        "population":20,
         "sq-km": 730
       },
       "geometry": {
@@ -1464,7 +1464,7 @@
       "properties": {
         "name": "KOTA LHOKSEUMAWE",
         "name:en": "NANGGROE ACEH DARUSSALAM",
-        "population": 1,
+        "population": 10,
         "sq-km": 3276
       },
       "geometry": {
